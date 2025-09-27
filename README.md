@@ -1,6 +1,6 @@
 
 # Hi, I'm Vishal Saxena! 👋
-Data Scientist in the making | Passionate about ML for Healthcare Analytic
+Data Scientist in the making | Passionate about ML for Healthcare Analytics
 
 ## 🚀 About Me
 
