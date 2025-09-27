@@ -1,19 +1,29 @@
 
 # Hi, I'm Vishal Saxena! 👋
-
+Data Scientist in the making | Passionate about ML for Healthcare Analytic
 
 ## 🚀 About Me
-I'm a Full stack data scientist (now) and seasoned application architect
 
-Experienced Engineering Professional with 14+ Years in Application Development across Job Portal, EdTech, and EVTech Domains
-- Proven Expertise in Scalable Web Applications: Extensive hands-on experience in building high-performance web applications that scale efficiently to meet growing demands.
-- Architectural Leadership: Successfully architected websites and applications from the ground up, ensuring robust and scalable solutions.
-- Technology and Product Strategy: Led the visualization and execution of technology and product roadmaps, driving innovation and strategic growth.
-- RESTful Web Services Development: Skilled in building RESTful web services using LAMP and Java technologies, delivering reliable and efficient backend solutions.
-- Voice User Interface Development: Developed advanced voice user interfaces using the Amazon Alexa Skill Kit, enhancing user interaction through voice commands.
-- Message Queue Integration: Experienced in working with message queuing systems like RabbitMQ and Kafka, ensuring seamless data flow and processing.
-- Site Performance and Analytics: Managed site uptime and performance, implementing logging, reporting, and data analytics to identify trends and support informed decision-making.
-- Over 5 years of experience managing teams of various sizes (5-15 members). Responsible for career planning, performance management, training, and appraisals
+I'm a **Full-Stack Data Scientist** (transitioned from 14+ years in Application Architecture) passionate about solving real-world problems with **Machine Learning** and **AI**.
+
+### 🔧 What I Bring
+- **14+ years of experience** building scalable applications across Job Portal, EdTech, and EVTech domains.
+- **Architectural leadership**: designed and launched high-performance web platforms end-to-end.
+- **Team leadership**: 5+ years managing teams (5–15 members), mentoring, and driving delivery excellence.
+- **Tech strategy & innovation**: led roadmaps, performance tuning, and analytics-driven decisions.
+
+### 🧠 Current Focus
+- **Machine Learning & Deep Learning**: Regression, Classification, ANN projects (Healthcare & FinTech).
+- **Python Stack**: Pandas, NumPy, Scikit-learn, TensorFlow/Keras.
+- **End-to-End ML Workflow**: Data preprocessing, model training, evaluation, and visualization.
+
+### 💡 Past Tech Highlights
+- Built RESTful web services using **LAMP & Java**.
+- Developed Alexa Skills (Voice UI) for enhanced user interaction.
+- Integrated message queues (**RabbitMQ, Kafka**) for scalable event-driven systems.
+- Managed site uptime, performance monitoring, and data analytics pipelines.
+
+💼 Open to collaborations and opportunities in **Data Science / ML**, especially in **Healthcare Analytics**.
 
 
 ## 🔗 Links
