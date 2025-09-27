@@ -30,21 +30,35 @@ I'm a **Full-Stack Data Scientist** (transitioned from 14+ years in Application 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-saxena-10355415/)
 
 
-
 ## 🛠 Skills
-1. Python (Numpy, Pandas, Sklearn)
-2. Machine Learning
-3. Deep Learning
-4. Generative AI, Agentic AI
-5. PHP, Symfony, Web Applications
-6. MySQL, Redis, Kafka, RabbitMQ, Nginx 
-7. OOPs, Design Pattern, REST, Web Services, 
-8. Team Management, Agile Project Management, 
-9. Amazon alexa(voice user interface)
+
+**Data Science & AI**
+- Python (NumPy, Pandas, Scikit-learn)
+- Machine Learning (Regression, Classification, Model Evaluation)
+- Deep Learning (Keras, TensorFlow)
+- Generative AI & Agentic AI
+
+**Software Development**
+- PHP, Symfony, Full-Stack Web Application Development
+- RESTful APIs, OOP, Design Patterns
+
+**Databases & Messaging**
+- MySQL, Redis
+- Kafka, RabbitMQ
+- Nginx (Web Server & Reverse Proxy)
+
+**Project & Team Management**
+- Agile Project Management, Sprint Planning
+- Team Leadership & Mentoring (5–15 members)
+
+**Other Highlights**
+- Voice UI Development with Amazon Alexa Skills Kit
+- Site Performance Monitoring & Analytics
+- Amazon alexa(voice user interface)
 
 
+## 📊 GitHub Stats
 
-
-
-![Logo](https://github-readme-stats.vercel.app/api?username=vishaltechevangelist&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=vishaltechevangelist&theme=dark&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaltechevangelist&layout=compact&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishaltechevangelist&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
